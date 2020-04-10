@@ -1,0 +1,5 @@
+contents/before/before-you-begin.md
+contents/getting-started/introduction.md
+contents/answers/building-answers-skill.md
+contents/analytics/analytics.md
+contents/apis/apis.md
