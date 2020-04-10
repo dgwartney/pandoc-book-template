@@ -1,8 +1,8 @@
-# Introduction
+# Lesson 1: 
 
 This is the first paragraph of the introduction chapter.
 
-## First: Images
+## Exercise 1.1
 
 This is the first subsection. Please, admire the gloriousnes of this seagull:
 
@@ -12,7 +12,7 @@ A bigger seagull:
 
 ![A cool big seagull.](images/seagull.png){ width=320px }
 
-## Second: Tables
+## Exercise 1.2
 
 This is the second subsection.
 
@@ -29,7 +29,7 @@ Please, check [this](#first-images) subsection.
 
 Table: This is an example table.
 
-## Third: Equations
+## Exersize 1.3
 
 Formula example: $\mu = \sum_{i=0}^{N} \frac{x_i}{N}$
 
@@ -39,36 +39,48 @@ $$\mu = \sum_{i=0}^{N} \frac{x_i}{N}$$
 
 And a code sample:
 
-```rb
-def hello_world
-  puts "hello world!"
-end
-
-hello_world
+```javascript
+return [{
+    quick_reply: {
+        "content": "Hello " + context.user.first_name + " Would you like help with any of the following?",
+        "links": [
+            {
+                "title": "Order a pizza",
+                "type": "post_message",
+                "value": "Order a pizza"
+            },
+            {
+                "title": "Get weather",
+                "type": "post_message",
+                "value": "Get weather"
+            },
+            {
+                "title": "Check stock prices",
+                "type": "post_message",
+                "value": "Check stock prices"
+            },
+            {
+                "title": "Get news",
+                "type": "post_message",
+                "value": "Get news"
+            }
+        ]
+    }
+}];
 ```
 
-Check these unicode characters: ǽß¢ð€đŋμ
 
-## Fourth: Cross references
+## Exercise 1.4: Welcome and Returning User Messages
 
-These cross references are disabled by default. To enable them, check the
-_[Cross references](https://github.com/wikiti/pandoc-book-template#cross-references)_
-section on the README.md file.
+### Change the Welcome Message
 
-Here's a list of cross references:
-
-- Check @fig:seagull.
-- Check @tbl:table.
-- Check @eq:equation.
+To change the welcome message you can click the **Greeting** in the built-in skills section.
+Once you are in the greeting message, delete the text output and then add a card. In the description section of the card, add a short welcome message to your agent. For example:
 
 ![A cool seagull](images/seagull.png){#fig:seagull}
 
-$$ y = mx + b $$ {#eq:equation}
 
-| Index | Name |
-| ----- | ---- |
-| 0     | AAA  |
-| 1     | BBB  |
-| ...   | ...  |
+## Exercise 1.5: Entity Types
 
-Table: This is an example table. {#tbl:table}
+
+## Exercise 1.6: Deploying your Agent to a Web Page

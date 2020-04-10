@@ -6,7 +6,7 @@
 
 BUILD = build
 MAKEFILE = Makefile
-OUTPUT_FILENAME = book
+OUTPUT_FILENAME = avaamo-tutorial
 METADATA = metadata.yml
 CHAPTERS = chapters/*.md
 TOC = --toc --toc-depth=2
@@ -30,7 +30,7 @@ CSS_ARGS = --css=$(CSS_FILE)
 # Combined arguments
 
 ARGS = $(TOC) $(MATH_FORMULAS) $(CSS_ARGS) $(METADATA_ARGS) $(FILTER_ARGS) $(DEBUG_ARGS)
-PANDOC_COMMAND = pandoc
+PANDOC_COMMAND = /usr/local/bin/pandoc
 
 # Per-format options
 

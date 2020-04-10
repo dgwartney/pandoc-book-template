@@ -6,7 +6,10 @@ lang: en-US
 tags: [pandoc, book, my-book, etc]
 abstract: |
   Your summary.
-mainfont: DejaVu Sans
+
+mainfont: Times New Roman
+sansfont: Arial
+monofont: Courier
 
 # Filter preferences:
 # - pandoc-crossref
