@@ -1,4 +1,0 @@
-# Building a Smalltak Skill
-
-- [Pandoc](http://pandoc.org/)
-- [Wikipedia: Markdown](https://wikipedia.org/wiki/Markdown)

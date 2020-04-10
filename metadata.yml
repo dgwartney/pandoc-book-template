@@ -1,12 +1,9 @@
 ---
-title: My book title
-author: Daniel Herzog
+title: Avaamo - Conversational AI Platform Tutorial
+author: Avaamo, Inc.
 rights: MIT License
 lang: en-US
 tags: [pandoc, book, my-book, etc]
-abstract: |
-  Your summary.
-
 mainfont: Times New Roman
 sansfont: Arial
 monofont: Courier
