@@ -12,7 +12,7 @@ After completing the exercises in the lesson you will be able to:
 
 - Use tags to displays specific data
 
-### Exercise 1: Analytics Dashboard
+## Exercise 1: Analytics Dashboard
 In the Agent Configuration menu, click Monitor understand and view the analytics of the agent
 To find your top intents in the Agent, navigate to **Agent-> Monitor -> Analytics**
 
@@ -23,7 +23,7 @@ You can see the total queries, Active users, Channels, User Feedback, Top dialog
 
 Observe the analytics for your agent and identify the top intents.
 
-### Exercise 2: User Journey Display
+## Exercise 2: User Journey Display
 
 The User Journey displays the user's journey through the conversation with the agent. This can be used to analyze
 the user's experience with the agent that can also be used to improve the conversation flow. 
@@ -34,7 +34,7 @@ To navigate to the User Journey navigate to **Agent-> Monitor -> User Journey**
 Observe the user journey and see how the user converses with the Agent. Also see where the conversations are dropping
 and analyze how it can be improved.
 
-### Exercise 3: Query Insights
+## Exercise 3: Query Insights
 
 The query insights helps to give you a closer look into the conversations that users have with your agent.
 To navigate to Query Insights navigate to Agent-> Monitor -> Query Insights.
@@ -45,7 +45,7 @@ Select a date range, the agent and filter the conversations to see each query an
 
 ![Query Insights](contents/analytics/images/message-insights.png)
 
-### Exercise 4: Monitoring User Feedback
+## Exercise 4: Monitoring User Feedback
 
 The User Feedback shows the feedback received by the agent from the users for the selected date range.
 It displays the Intent, User Comments, Feedback and Node. You can use this to analyze the experience of the user
@@ -61,7 +61,7 @@ This feature helps you to understand the usage of agents by categorizing the use
 It helps you to analyze the top used intent categories and the way users are interacting with the agent.
 You can define and add any number of tags to a skill response.
 
-### Exercise 5: Adding a Tag
+## Exercise 5: Adding a Tag
 
 Navigate to **Configuration-> Tags as shown below
 
@@ -77,8 +77,8 @@ Navigate to **Configuration-> Tags as shown below
 
 - Click on _Create_ to save the tag
 
-### Exercise 6: Adding a tag within a Q&amp;A Skill
+## Exercise 6: Adding a tag within a Q&amp;A Skill
 
-### Exercise 7: Adding a tag within a Dialog skill
+## Exercise 7: Adding a tag within a Dialog skill
 
-### Exercise 8: Filtering Query Insights based on tags
+## Exercise 8: Filtering Query Insights based on tags
