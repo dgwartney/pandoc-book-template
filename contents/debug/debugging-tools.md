@@ -5,7 +5,7 @@ After completing the exercises in the lesson you will be able to:
 - Use logging to troubleshoot code
 - Viewing JavaScript errors
 
-Exercise 1: Logging troubleshoot code
+## Exercise 1: Logging troubleshoot code
 
 You can use `console.log()` to log errors and monitor these errors while testing the agent.
 Lets see how to add a `console.log()` a message and see it in the debug logs.
