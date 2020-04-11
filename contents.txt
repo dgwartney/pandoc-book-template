@@ -1,8 +1,15 @@
 contents/before/before-you-begin.md
 contents/getting-started/introduction.md
 contents/answers/building-answers-skill.md
+contents/qna/building-qna-skill.md
+contents/smalltalk/building-smalltalk-skill.md
+contents/dialog/building-dialog-skill.md
 contents/analytics/analytics.md
-contents/development/programming.md
+contents/channels/configuring-channels.md
+contents/live-agent/live-agent-integration.md
+contents/language/language-support.md
 contents/apis/apis.md
+contents/development/programming.md
+contents/debug/debugging-tools.md
 contents/life-cycle/lcm-and-permissions.md
 contents/stores/skill-store.md
