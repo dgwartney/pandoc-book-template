@@ -18,7 +18,7 @@ Let's build a skill to create an incident using a service now integration. Here 
 >> _My Desktop is laggy, raise an incident_
 For the purpose of this exercise we are limiting the training to these 3 phrases, you can go in and add more training data.
 
-Exercise 1: Creating a Dialog Skill
+## Exercise 1: Creating a Dialog Skill
 
 To create a new dialog skill:
 
