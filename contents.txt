@@ -1,3 +1,4 @@
+contents/introduction/about.md
 contents/before/before-you-begin.md
 contents/getting-started/introduction.md
 contents/answers/building-answers-skill.md
