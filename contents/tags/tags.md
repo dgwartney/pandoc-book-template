@@ -4,7 +4,9 @@ This feature helps you to understand the usage of agents by categorizing the use
 It helps you to analyze the top used intent categories and the way users are interacting with the agent.
 You can define and add any number of tags to a skill response.
 
-## Exercise 5: Adding a Tag
+**TBD: Specific tags to use from the _Ask Ivy_ bot to included in these lesson**
+
+## Exercise 1: Adding a Tag
 
 Navigate to **Configuration-> Tags as shown below
 
