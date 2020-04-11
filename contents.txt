@@ -2,4 +2,7 @@ contents/before/before-you-begin.md
 contents/getting-started/introduction.md
 contents/answers/building-answers-skill.md
 contents/analytics/analytics.md
+contents/development/programming.md
 contents/apis/apis.md
+contents/life-cycle/lcm-and-permissions.md
+contents/stores/skill-store.md

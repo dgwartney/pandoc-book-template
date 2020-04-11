@@ -19,7 +19,7 @@ To access the skill store navigate to Home Screen -> Skill Store
 
 ![Avaamo Skill Store](images/ch14/skill-store-1.png)
 
-In the skill store you will find 12 categories:
+In the skill store you will find prebuilt skills under the following categories:
 
 - Banking
 - Travel
@@ -33,7 +33,6 @@ In the skill store you will find 12 categories:
 - Human Resources
 - Supply Chain
 - Health Insurance.
-Under each of these categories you’ll find related skills.
 
 ![Avaamo Skill Store Categories](images/ch14/skill-store-2.png)
 
