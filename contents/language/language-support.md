@@ -6,7 +6,7 @@ After completing the exercises in the lesson you will be able to:
 
 - Understand how you can override the default translation of the added language
 
-Exercise 1: Adding a Language to an Agent
+## Exercise 1: Adding a Language to an Agent
 
 Open an agent and navigate to the **Agent-> Configuration -> Language**:
 
@@ -26,7 +26,7 @@ Use Google Translate to formulate Spanish questions from English like the follow
 
 _Order pizza_ => _Ordenar pizza_
 
-Exercise 2: Overriding Default Language Translation
+## Exercise 2: Overriding Default Language Translation
 
 Existing output to the user is automatically translated but can be overridden by different
 responses in the added language. First you need to add the language to the dialog skill.
