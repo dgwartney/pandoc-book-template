@@ -1,5 +1,7 @@
 # Life-Cycle Management and Agent Permission
 
+**TBD: Add graphics and clean up text and validate**
+
 After completing the exercises in the lesson you will be able to:
 
 - Understand how life-cycle management is implemented on the platform
@@ -34,3 +36,30 @@ Along with these stages, you can assign different roles to the users, to assign 
 
 **Note** You can only give access to the users if you have the setting role assigned.
 If you don’t have the setting role then contact your admin.
+
+![**TBD: Add Graphic**](contents/dialog/images/tbd)
+
+![**TBD: Add Graphic**](contents/dialog/images/tbd)
+
+![**TBD: Add Graphic**](contents/dialog/images/tbd)
+
+Exercise 2: Understand Agent Permission
+
+When you create an agent, you become the owner of the agent. Also, when a user promotes an agent,
+he becomes the owner of the agent. As the owner of the agent, you can now assign different permissions
+to different people within your company.
+
+There are 4 types of permissions available for the agent:
+
+- _View_ - Users can only view the agent, but cannot edit it
+- _Edit_ - The users can view and edit the agent
+- _Publish_ - Users can view agent, edit agent and publish skills from the agent to the skill store
+- _Owner_ - Full access to the agent. Users can view agent, edit agent, publish agent from the agent to skill store, and edit agent permissions.
+
+To give users permission to access your agent navigate to **Agent -> Configuration -> Permission**
+
+You can read more about Permissions here: 
+[https://docs.avaamo.com/v5/how-to/build-agents/configure-agents/permissions](https://docs.avaamo.com/v5/how-to/build-agents/configure-agents/permissions)
+
+[https://docs.avaamo.com/v5/how-to/manage-platform-settings/users-and-permissions](https://docs.avaamo.com/v5/how-to/manage-platform-settings/users-and-permissions)
+

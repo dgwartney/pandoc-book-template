@@ -18,7 +18,6 @@ contents/tags/tags.md
 contents/new-qna-skill/qna.md
 contents/new-dialog-skill/dialog.md
 contents/using-the-agent/agent.md
-contents/new-analytics/tags-analytics.md
 contents/regression-tests/creating-tests.md
 contents/debug/debugging-tools.md
 contents/programming/programming.md
