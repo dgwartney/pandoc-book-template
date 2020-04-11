@@ -36,8 +36,7 @@ In the skill store you will find prebuilt skills under the following categories:
 
 ![Avaamo Skill Store Categories](images/ch14/skill-store-2.png)
 
-To learn more about the Avaamo Skill Store -
-[See _Avaamo skills in the Avaamo documentation portal](https://docs.avaamo.com/v5/how-to/manage-skills-store#avaamo-skills)
+[To learn more about the Avaamo Skill Store see **Avaamo skills** in the Avaamo documentation portal](https://docs.avaamo.com/v5/how-to/manage-skills-store#avaamo-skills)
 
 ## Exercise 2: Company Skill Store
 
