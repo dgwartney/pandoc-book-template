@@ -14,6 +14,12 @@ contents/new-agent/new-agent-overview.md
 contents/user-properties/user-properties.md
 contents/response-filters/creating-filters.md
 contents/dictionaries/dictionaries.md
-contents/apis/apis.md
-contents/development/programming.md
+contents/tags/tags.md
+contents/new-qna-skill/qna.md
+contents/new-dialog-skill/dialog.md
+contents/using-the-agent/agent.md
+contents/new-analytics/tags-analytics.md
+contents/regression-tests/creating-tests.md
 contents/debug/debugging-tools.md
+contents/development/programming.md
+contents/apis/apis.md

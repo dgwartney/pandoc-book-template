@@ -20,8 +20,4 @@ Navigate to **Configuration-> Tags as shown below
 
 - Click on _Create_ to save the tag
 
-## Exercise 6: Adding a tag within a Q&amp;A Skill
 
-## Exercise 7: Adding a tag within a Dialog skill
-
-## Exercise 8: Filtering Query Insights based on tags

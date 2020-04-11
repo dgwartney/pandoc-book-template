@@ -12,16 +12,39 @@ After completing the exercises in the lesson you will be able to:
 
 - Adding  a simple outro to your Q&A Skill	
 
-## Exercise 1: Train the Skill with Questions and Answer Pairs.
+## Exercise 1: Create a Q&amp;A Skill
 
-### Create a Q&A Skill
+- Navigate to **Agent -> Skills**
 
-- In the **Agent** page, navigate to the Skills option in the left navigation menu, click
-_Add Skill_ in the Agent skills page.
+![Agent skills](contents/qna/images/skill-builder-page.png)
 
-- In the Skill builder page, select _Q&A_ and click _Create_.
+- Click the _Edit_ button in the upper write hand corner
 
-- Specify the following details using the values from the picture below and click Create
+- Click on _Add Skill_ button
+
+- In the displayed page, click  on the _Q&A_ card
+
+![Agent skills](contents/qna/images/skill-builder-selector.png)
+
+- Specify the following details using the values from the picture below and click the _Create_
+
+![Agent skills](contents/qna/images/qna-skill-dialog.png)
+
+![Agent skills](contents/qna/images/qna-skill-builder.png)
+
+## Exercise 2: Add Questions and Answers
+
+To add questions and answers perform the following:
+
+- In the Q&amp;A builder click on the **plus** icon to add a questions and answer
+
+- Add an intent with the _Intent name_ `Order return and cancellation`. Add the following training phrase and message
+to your intent from the text in the table below.
+
+
+
+
+
 
 
 
