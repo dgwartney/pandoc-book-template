@@ -52,7 +52,7 @@ If the agent is not sure what you are asking about it responds with a disambigua
 Click the edit icon (pencil) next to the agent name on the top left corner. The following pop-up is displayed,
 where you can edit agent name and description:
 
-[Change the agent name](contents/getting-started/images/change-agent-name.png)
+![Change the agent name](contents/getting-started/images/change-agent-name.png)
 
 ## Exercise 4: Changing the Welcome Message
 
@@ -60,7 +60,7 @@ To change the welcome message you can click the Greeting in the built-in skills 
 Once you are in the greeting message, delete the text output and then add a card.
 In the description section of the card, add a short welcome message to your agent. For example:
 
-[Greeting Message](contents/getting-started/images/change-agent-name.png)
+![Greeting Message](contents/getting-started/images/change-agent-name.png)
 
 ## Exercise 5: Changing the returning User Message
 
@@ -124,12 +124,12 @@ Click the entity type Pizza Size and add value - Extra large. Our agent will now
 
 To this extra-large entity type add alternate values as shown below.
 
-[Entity Types](contents/getting-started/images/entity-type-builder.png)
+![Entity Types](contents/getting-started/images/entity-type-builder.png)
 
 Save the changes, and build your agent. In the Agent simulator now ask, I want to order an extra large pizza_.
 Your Agent will now understand the size extra large and ask you to select a topping.
 
-[Entity Types](contents/getting-started/images/entity-type-chat.png)
+![Testing entity types](contents/getting-started/images/entity-type-chat.png)
 
 ## Exercise 7: Testing your Updated Entities
 
@@ -137,18 +137,18 @@ Now that we have made so many changes to our Agent, open up the Agent Simulator 
 Try incorporating the new entity types in your queries to see if the agent is able to understand the changes you have made.
 
 
-## Exercise 7: Deploying your Agent to a Web Page
+## Exercise 8: Deploying your Agent to a Web Page
 
 To user your Agent on the web navigate to **Agent -> Configuration -> Channel**.
 
-[Agent Channels](contents/getting-started/channels.png)
+![Agent Channels](contents/getting-started/images/channels.png)
 
 Find the web channel in the page and click on the _view_ link:
 
-[Web Channel Settings](context/getting-started/web-channel-settings)
+![Web Channel Settings](contents/getting-started/images/web-channel-settings.png)
 
 Click on the _test_ button which will open the agent on a new page. Click the avatar in the lower
 right corner to interact with agent via the chat window.
 
-[Testing the agent on the web](context/getting-started/web-channel-settings)
+![Testing the agent on the web](contents/getting-started/images/web-test-channel.png)
 
