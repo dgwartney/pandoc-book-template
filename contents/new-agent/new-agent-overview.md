@@ -6,6 +6,8 @@ This virtual agent will build upon knowledge obtain in previous lessons to creat
 virtual assistant. We also introduce some additional topics that permit the customization of the response based
 on the specific user interacting with the virtual assistant.
 
+## Overview
+
 The high level tasks needed to create this new virtual assistant are the following:
 
 1. Create a new agent.
@@ -17,18 +19,18 @@ The high level tasks needed to create this new virtual assistant are the followi
 
 Additional details about the steps follow below.
 
-## Create a New Agent
+### Create a New Agent
 
 In previous exercises we copied an existing agent which contained skills and then modified the agent to change
 or add additional behavior. This time we are going to start with a blank agent and develop new skills for
 this agent.
 
-## Configure User Properties
+### Configure User Properties
 
 User Properties are the method by which you can characterize specifics of an individual user. User properties
 are then incorporated into a response filter to select a personalized response by the agent.
 
-## Configure Response Filters
+### Configure Response Filters
 
 Response filters provide the capability to provide a specific response agent response based upon a specific
 user property, an entity, or custom criteria. A rudimentary example is one in which a defined user property such
@@ -36,14 +38,14 @@ as _location_ is set to India or USA based upon where the user resides. Using th
 specific response from the agent such as _How long have you lived in India?_ or
 _How long have you lived in the USA?_ can be formulated.
 
-## Create Dictionaries
+### Create Dictionaries
 
 Dictionaries permit the ability to map to  a standard term or word from their respective alternates. For example,
 _leave_ _or _holiday_ is alternate to the more formal _PTO_(Paid Time Off). Dictionaries help with the
 training aspect of intents by providing standard utterances. In the specific example _I want to take leave_
 becomes equivalent to _I want to take PTO_.
 
-## Define Tags
+### Define Tags
 
 Tags are used to classify specific intents and are recorded by the analytics engine to provide the specific
 interaction of a user with the agent. So for example if you have configure an intent that relates to dental
@@ -52,7 +54,7 @@ coverage, and another that relates to vision coverage, one can tag each of these
 A later time you can use query insights and filter on the specific tag `Benefits` to observe the intents
 triggered by each.
 
-## Develop a Q&A Skill and Dialog Skill
+### Develop a Q&A Skill and Dialog Skill
 
 In previous lessons we have learned how to create Q&A and Dialog skills. We create additional skills of
 these types for the new agent.

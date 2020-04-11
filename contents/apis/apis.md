@@ -1,5 +1,4 @@
 # APIs	
-
 After completing the exercises in the lesson you will be able to:
 
 - Understand how to authenticate your API client

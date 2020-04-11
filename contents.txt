@@ -8,8 +8,12 @@ contents/analytics/analytics.md
 contents/channels/configuring-channels.md
 contents/live-agent/live-agent-integration.md
 contents/language/language-support.md
+contents/life-cycle/lcm-and-permissions.md
+contents/stores/skill-store.md
+contents/new-agent/new-agent-overview.md
+contents/user-properties/user-properties.md
+contents/response-filters/creating-filters.md
+contents/dictionaries/dictionaries.md
 contents/apis/apis.md
 contents/development/programming.md
 contents/debug/debugging-tools.md
-contents/life-cycle/lcm-and-permissions.md
-contents/stores/skill-store.md

@@ -19,11 +19,11 @@ In our specific case will be creating three user properties:
 
 - Navigate to **Agent -> Configuration -> User Properties**
 
-~![User properties configuration](contents/user-properities/images/user-properties-builder.png)
+~![User properties configuration](contents/user-properties/images/user-properties-builder.png)
 
 - Click, on the _Add User Property_. Add values for the _Name_ and _Key_ fields as shown here:
 
-~![New user property dialog](contents/user-properities/images/user-property-new-dialog.png)
+~![New user property dialog](contents/user-properties/images/user-property-new-dialog.png)
 
 - Click on the _Create_ button to create the new user property
 
