@@ -10,8 +10,8 @@ The high level tasks needed to create this new virtual assistant are the followi
 
 1. Create a new agent.
 2. Defined User Properties 
-3. Create a dictionary that maps terms
 4. Setup response filters
+3. Create a dictionary that maps terms
 5. Create tags
 5. Create a Q&A Skill and Dialog Skill
 
@@ -28,20 +28,20 @@ this agent.
 User Properties are the method by which you can characterize specifics of an individual user. User properties
 are then incorporated into a response filter to select a personalized response by the agent.
 
-## Defined a Dictionary
+## Configure Response Filters
+
+Response filters provide the capability to provide a specific response agent response based upon a specific
+user property, an entity, or custom criteria. A rudimentary example is one in which a defined user property such
+as _location_ is set to India or USA based upon where the user resides. Using the value of _location_ a
+specific response from the agent such as _How long have you lived in India?_ or
+_How long have you lived in the USA?_ can be formulated.
+
+## Create Dictionaries
 
 Dictionaries permit the ability to map to  a standard term or word from their respective alternates. For example,
 _leave_ _or _holiday_ is alternate to the more formal _PTO_(Paid Time Off). Dictionaries help with the
 training aspect of intents by providing standard utterances. In the specific example _I want to take leave_
 becomes equivalent to _I want to take PTO_.
-
-## Configure Response Filters
-
-Response filters provide the capability to provide a specific response agent response based upon a specific
-user property, an entity, or custom criteria. A rudimentary example is one in which a defined user property such
-as _location_ is set to Germany or USA based upon where the user resides. Using the value of _location_ a
-specific response from the agent such as _How long have you lived Germany?_ or
-_How long have you lived in the USA?_ can be formulated.
 
 ## Define Tags
 
