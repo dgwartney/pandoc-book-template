@@ -1,14 +1,14 @@
-# Creating a New Virtual Assistant
+# Creating a New agent
 
 In this lesson begins the process in which you will build a virtual agent from the ground up.
 
-This virtual agent will build upon knowledge obtain in previous lessons to create a people management
-virtual assistant. We also introduce some additional topics that permit the customization of the response based
-on the specific user interacting with the virtual assistant.
+This lesson will build upon knowledge obtain in previous lessons to create a people management
+agent. We also introduce some additional topics that permit the customization of the response based
+on the specific user interacting with the agent.
 
 ## Overview
 
-The high level tasks needed to create this new virtual assistant are the following:
+The high level tasks needed to create this new agent are the following:
 
 1. Create a new agent.
 2. Defined User Properties 
@@ -41,7 +41,7 @@ _How long have you lived in the USA?_ can be formulated.
 ### Create Dictionaries
 
 Dictionaries permit the ability to map to  a standard term or word from their respective alternates. For example,
-_leave_ _or _holiday_ is alternate to the more formal _PTO_(Paid Time Off). Dictionaries help with the
+_leave_ or _holiday_ is alternate to the more formal _PTO_(Paid Time Off). Dictionaries help with the
 training aspect of intents by providing standard utterances. In the specific example _I want to take leave_
 becomes equivalent to _I want to take PTO_.
 
@@ -56,7 +56,7 @@ triggered by each.
 
 ### Develop a Q&A Skill and Dialog Skill
 
-In previous lessons we have learned how to create Q&A and Dialog skills. We create additional skills of
+In previous lessons we have learned how to create Q&A and Dialog skills. You will create additional skills of
 these types for the new agent.
 
 ## Lesson 1: Create a New Agent
