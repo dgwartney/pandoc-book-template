@@ -1,4 +1,4 @@
-# Lesson 3: Building a Q&A Skill
+# Building a Q&A Skill
 
 After completing the exercises in the lesson you will be able to:
 
@@ -12,7 +12,7 @@ After completing the exercises in the lesson you will be able to:
 
 - Adding  a simple outro to your Q&A Skill	
 
-## Exercise 3.1: Train the Skill with Questions and Answer Pairs.
+## Exercise 1: Train the Skill with Questions and Answer Pairs.
 
 ### Create a Q&A Skill
 
