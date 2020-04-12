@@ -8,7 +8,7 @@ BUILD = build
 MAKEFILE = Makefile
 OUTPUT_FILENAME = avaamo-tutorial
 METADATA = metadata.yml
-CHAPTERS = $(shell cat contents.txt)
+CHAPTERS = $(shell cat contents.txt | grep -v ^\#)
 TOC = --toc --toc-depth=2
 METADATA_ARGS = --metadata-file=$(METADATA)
 IMAGES_FOLDER = images
