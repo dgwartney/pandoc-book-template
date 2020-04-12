@@ -21,6 +21,7 @@ contents/my-agent/stores/skill-store.md
 #
 contents/hr-agent/section.md
 contents/hr-agent/overview.md
+contents/hr-agent/agent.md
 contents/hr-agent/user-properties.md
 contents/hr-agent/response-filters.md
 contents/hr-agent/dictionaries.md
