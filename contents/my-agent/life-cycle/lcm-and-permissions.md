@@ -37,11 +37,11 @@ Along with these stages, you can assign different roles to the users, to assign 
 **Note** You can only give access to the users if you have the setting role assigned.
 If you don’t have the setting role then contact your admin.
 
-[**TBD: Add Graphic**](contents/dialog/images/tbd)
+[**TBD: Add Graphic**](contents/my-agent/life-cycle/images/tbd)
 
-[**TBD: Add Graphic**](contents/dialog/images/tbd)
+[**TBD: Add Graphic**](contents/my-agent/life-cycle/images/tbd)
 
-[**TBD: Add Graphic**](contents/dialog/images/tbd)
+[**TBD: Add Graphic**](contents/my-agent/life-cycle/images/tbd)
 
 Exercise 2: Understand Agent Permission
 

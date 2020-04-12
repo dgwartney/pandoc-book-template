@@ -11,5 +11,5 @@ After completing the exercises in the lesson you will be able to:
 You can embed an Agent on a web page by just including a script tag block.
 You can retrieve the script tag to use by navigating to **Agent-> Settings -> Channels**.
 
-![Agent channel configuration](contents/channels/images/channels-configuration.png)
+![Agent channel configuration](contents/my-agent/channels/images/channels-configuration.png)
 

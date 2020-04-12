@@ -16,21 +16,21 @@ After completing the exercises in the lesson you will be able to:
 
 - Specify Skill name: Credit Card Policy and Skill description: FAQs related to credit card policy and click Create.
 
-![Create Answers skill dialog](contents/answers/images/create-answer-skill-dialog.png)
+![Create Answers skill dialog](contents/my-agent/answers/images/create-answer-skill-dialog.png)
 
 ## Exercise 2: Uploading a Document
 
 In the Answers skill page, click _Add documents_ in the Documents tab. Click _Select files_, choose a PDF document,
 and click the _Import_ button.
 
-![Uploading a document](contents/answers/images/uploaded-document.png)
+![Uploading a document](contents/my-agent/answers/images/uploaded-document.png)
 
 Once the document is uploaded, and the training is completed,
 your Answers skill is now ready for use.
 
-![Trained document](contents/answers/images/uploaded-document.png)
+![Trained document](contents/my-agent/answers/images/uploaded-document.png)
 
-![Sample questions in chat window](contents/answers/images/answers-chat-window.png){ width=250px }
+![Sample questions in chat window](contents/my-agent/answers/images/answers-chat-window.png){ width=250px }
 
 In the Agent page, click the agent avatar in the bottom-right corner. You can now ask questions to see
 if you are receiving appropriate responses. Click _View More_ to view the actual section in the document.
@@ -65,7 +65,7 @@ the corresponding section header.
 
 Navigate to the _Sections_ tab and observe the sections that have been identified.
 
-![Answer skill sections](contents/answers/images/answers-section.png)
+![Answer skill sections](contents/my-agent/answers/images/answers-section.png)
 
 ### Entities
 
@@ -73,7 +73,7 @@ Entities are business terms in your document. All entities are identified and ex
 and classified as entities in this section. Here, you can either view all the entities from all the documents
 or select a specific document and view all the entities.
 
-![Answer skill entities](contents/answers/images/answers-entities.png)
+![Answer skill entities](contents/my-agent/answers/images/answers-entities.png)
 
 You can change the document by selecting the document from the dropdown in the top right corner of the page.
 Select an entity from the list and try adding all the values.
@@ -90,7 +90,7 @@ You can get the definition of an acronym, like in the following examples:
 >> _What is DPR?_
 
 
-![Answer skill acronyms](contents/answers/images/answers-acronyms.png)
+![Answer skill acronyms](contents/my-agent/answers/images/answers-acronyms.png)
 
 ### Knowledge Graph
 
@@ -108,7 +108,7 @@ Here we learn how to build an answers skill by providing a publicly accessible U
 - Create a answers skill as we have done previously with the _Skill name_ `Microsoft Support`
 and _Skill description_ `Answer Skill for Microsoft Office Support`
 
-![Creating the _Microsoft Office Support Answers_ skill](contents/answers/images/answers-ms-support.png)
+![Creating the _Microsoft Office Support Answers_ skill](contents/my-agent/answers/images/answers-ms-support.png)
 
 - In the Answers skill page, click on the button _Add URL_ in the Documents tab. In the popup, provide the URL,
 a name for the URL and click the button Import URL.

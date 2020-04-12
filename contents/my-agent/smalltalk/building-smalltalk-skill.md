@@ -33,7 +33,7 @@ click _Add skill_ button in the Agent skills page.
 
 - Specify the following details and click _Create_: 
 
-![New Smalltalk skill dialog](contents/smalltalk/images/smalltalk-create-dialog.png)
+![New Smalltalk skill dialog](contents/my-agent/smalltalk/images/smalltalk-create-dialog.png)
 
 ## Exercise 3: Adding Variations to your Smalltalk Questions
 

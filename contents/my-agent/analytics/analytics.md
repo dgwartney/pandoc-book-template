@@ -16,7 +16,7 @@ After completing the exercises in the lesson you will be able to:
 In the Agent Configuration menu, click Monitor understand and view the analytics of the agent
 To find your top intents in the Agent, navigate to **Agent-> Monitor -> Analytics**
 
-![Analytics Dashboard](contents/analytics/images/analytics-dashboard.png)
+![Analytics Dashboard](contents/my-agent/analytics/images/analytics-dashboard.png)
 
 On this dashboard you will see different conversation metrics associated with the agent.
 You can see the total queries, Active users, Channels, User Feedback, Top dialog skills and top Q&A intent
@@ -29,7 +29,7 @@ The User Journey displays the user's journey through the conversation with the a
 the user's experience with the agent that can also be used to improve the conversation flow. 
 To navigate to the User Journey navigate to **Agent-> Monitor -> User Journey**
 
-![User Journey Display](contents/analytics/images/user-journey-display.png)
+![User Journey Display](contents/my-agent/analytics/images/user-journey-display.png)
 
 Observe the user journey and see how the user converses with the Agent. Also see where the conversations are dropping
 and analyze how it can be improved.
@@ -39,11 +39,11 @@ and analyze how it can be improved.
 The query insights helps to give you a closer look into the conversations that users have with your agent.
 To navigate to Query Insights navigate to Agent-> Monitor -> Query Insights.
 
-![Query Insights](contents/analytics/images/query-insights.png)
+![Query Insights](contents/my-agent/analytics/images/query-insights.png)
 
 Select a date range, the agent and filter the conversations to see each query and its associated insight in detail.
 
-![Query Insights](contents/analytics/images/message-insights.png)
+![Query Insights](contents/my-agent/analytics/images/message-insights.png)
 
 ## Exercise 4: Monitoring User Feedback
 
@@ -53,5 +53,5 @@ when they are interacting with the your agent.
 
 To navigate to the User Feedback navigate to **Agent-> Learning-> User Feedback**
 
-![Query Insights](contents/analytics/images/user-feedback.png)
+![Query Insights](contents/my-agent/analytics/images/user-feedback.png)
 

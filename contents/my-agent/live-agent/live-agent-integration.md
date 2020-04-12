@@ -11,7 +11,7 @@ After completing the exercises in the lesson you will be able to:
 If the agent detects either frustration or request to talk with the live agent then the user
 will be prompted to ask if they want to talk with a live agent:
 
-![Live agent example](contents/live-agent/images/live-agent-chat-window.png)
+![Live agent example](contents/my-agent/live-agent/images/live-agent-chat-window.png)
 
 ## Exercise 2: Avaamo Live Agent Console
 

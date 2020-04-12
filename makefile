@@ -47,6 +47,10 @@ all:	book
 
 book:	epub html pdf docx
 
+push:
+	git push --all origin
+	git push --all gitlab
+
 clean:
 	rm -r $(BUILD)
 

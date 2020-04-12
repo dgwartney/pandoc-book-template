@@ -22,7 +22,7 @@ Navigate to your order pizza skill in my assistant agent:
 - Navigate to your **Agent-> Debug-> Debug log**. This will open the debugging log on the left side of the screen.
 Test your agent and your `console.log()` statement will appear in the debugging logs.
 
-![Javascript logging console](contents/debug/images/javascript-logging.png)
+![Javascript logging console](contents/advanced-topics/images/javascript-logging.png)
 
 ## Exercise 2: Viewing JavaScript Errors
 
@@ -32,6 +32,6 @@ To view JavaScript errors navigate to **Agent -> Debug -> JS Errors**
 
 In the agent My Assistant navigate to JS errors to see if you can find any errors in your agent.
 
-![Javascript error log](contents/debug/images/javascript-errors-log.png)
+![Javascript error log](contents/advanced-topics/images/javascript-errors-log.png)
 
 [To learn more about debugging and loggin see _Using JS Errors_ from the Avaamo documentation portal](https://docs.avaamo.com/v5/how-to/build-skills/create-skill/using-dialog-designer/debug-skill#using-js-errors)

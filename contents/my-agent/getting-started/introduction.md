@@ -15,7 +15,7 @@ and after completing the exercises in the lesson you will be able to:
 Pick the Sample Agent, Sample Agent: My Assistant. Make a copy of the Agent by clicking the
 hamburger menu and select the option - _Make a Copy_
 
-![Making a copy of a sample agent](images/ch1/dashboard-make-copy.png)
+[*TBD: Making a copy of a sample agent*](contents/my-agent/getting-started/images/dashboard-make-copy.png)
 
 ## Exercise 2: Asking questions to the Agent
 
@@ -52,7 +52,7 @@ If the agent is not sure what you are asking about it responds with a disambigua
 Click the edit icon (pencil) next to the agent name on the top left corner. The following pop-up is displayed,
 where you can edit agent name and description:
 
-![Change the agent name](contents/getting-started/images/change-agent-name.png)
+![Change the agent name](contents/my-agent/getting-started/images/change-agent-name.png)
 
 ## Exercise 4: Changing the Welcome Message
 
@@ -60,7 +60,7 @@ To change the welcome message you can click the Greeting in the built-in skills 
 Once you are in the greeting message, delete the text output and then add a card.
 In the description section of the card, add a short welcome message to your agent. For example:
 
-![Greeting Message](contents/getting-started/images/change-agent-name.png)
+![Greeting Message](contents/my-agent/getting-started/images/change-agent-name.png)
 
 ## Exercise 5: Changing the returning User Message
 
@@ -71,7 +71,7 @@ is executed when returning user accesses the agent and the returning value is se
 
 To get to the Returning User Message navigate to **Configuration -> Settings**
 
-![Returning User Message](contents/getting-started/images/returning-user-message-settings.png)
+![Returning User Message](contents/my-agent/getting-started/images/returning-user-message-settings.png)
 
 Copy the following code and add to the returning user message handler:
 
@@ -124,12 +124,12 @@ Click the entity type Pizza Size and add value - Extra large. Our agent will now
 
 To this extra-large entity type add alternate values as shown below.
 
-![Entity Types](contents/getting-started/images/entity-type-builder.png)
+![Entity Types](contents/my-agent/getting-started/images/entity-type-builder.png)
 
 Save the changes, and build your agent. In the Agent simulator now ask, I want to order an extra large pizza_.
 Your Agent will now understand the size extra large and ask you to select a topping.
 
-![Testing entity types](contents/getting-started/images/entity-type-chat.png)
+![Testing entity types](contents/my-agent/getting-started/images/entity-type-chat.png)
 
 ## Exercise 7: Testing your Updated Entities
 
@@ -141,14 +141,14 @@ Try incorporating the new entity types in your queries to see if the agent is ab
 
 To user your Agent on the web navigate to **Agent -> Configuration -> Channel**.
 
-![Agent Channels](contents/getting-started/images/channels.png)
+![Agent Channels](contents/my-agent/getting-started/images/channels.png)
 
 Find the web channel in the page and click on the _view_ link:
 
-![Web Channel Settings](contents/getting-started/images/web-channel-settings.png)
+![Web Channel Settings](contents/my-agent/getting-started/images/web-channel-settings.png)
 
 Click on the _test_ button which will open the agent on a new page. Click the avatar in the lower
 right corner to interact with agent via the chat window.
 
-![Testing the agent on the web](contents/getting-started/images/web-test-channel.png)
+![Testing the agent on the web](contents/my-agent/getting-started/images/web-test-channel.png)
 

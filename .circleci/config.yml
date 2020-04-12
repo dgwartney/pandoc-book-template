@@ -27,8 +27,7 @@ jobs:
           command:
             test -s build/html/book.html &&
             test -s build/html/style.css &&
-            test -s build/html/images/cover.png &&
-            test -s build/html/images/seagull.png
+            test -s build/html/images/cover.png
 
       - run:
           name: Check if pdf exists

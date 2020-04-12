@@ -16,7 +16,7 @@ After completing the exercises in the lesson you will be able to:
 
 - Navigate to **Agent -> Skills**
 
-![Agent skills](contents/qna/images/skill-builder-page.png)
+![Agent skills](contents/my-agent/qna/images/skill-builder-page.png)
 
 - Click the _Edit_ button in the upper write hand corner
 
@@ -24,13 +24,13 @@ After completing the exercises in the lesson you will be able to:
 
 - In the displayed page, click  on the _Q&A_ card
 
-![Agent skills](contents/qna/images/skill-builder-selector.png)
+![Agent skills](contents/my-agent/qna/images/skill-builder-selector.png)
 
 - Specify the following details using the values from the picture below and click the _Create_
 
-![Agent skills](contents/qna/images/qna-skill-dialog.png)
+![Agent skills](contents/my-agent/qna/images/qna-skill-dialog.png)
 
-![Agent skills](contents/qna/images/qna-skill-builder.png)
+![Agent skills](contents/my-agent/qna/images/qna-skill-builder.png)
 
 ## Exercise 2: Add Questions and Answers
 

@@ -1,4 +1,3 @@
-# Language Support
 
 After completing the exercises in the lesson you will be able to:
 
@@ -10,11 +9,11 @@ After completing the exercises in the lesson you will be able to:
 
 Open an agent and navigate to the **Agent-> Configuration -> Language**:
 
-![Agent language configuration](contents/language/images/agent-language-configuration.png)
+![Agent language configuration](contents/my-agent/language/images/agent-language-configuration.png)
 
 Click on the Add language button in the Language page which then displays a pop-up menu as shown here:
 
-![Agent language configuration](contents/language/images/language-add-spanish.png)
+![Agent language configuration](contents/my-agent/language/images/language-add-spanish.png)
 
 In the search text field type: Spanish. Next select the menu item _Spanish (es-US)_ to select the US dialect
 of the Spanish language.
