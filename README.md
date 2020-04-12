@@ -1,11 +1,10 @@
-# Pandoc book template
+# Avaamo Tutorial
 
-[![CircleCI](https://circleci.com/gh/wikiti/pandoc-book-template.svg?style=shield)](https://circleci.com/gh/wikiti/pandoc-book-template)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/wikiti/pandoc-book-template/blob/master/LICENSE.md)
+Tutorial on building agents on the Avaamo conversational AI platform
 
 ## Description
 
-This repository contains a simple template for building [Pandoc](http://pandoc.org/) documents;
+This respository uses [Pandoc](http://pandoc.org/) for the books creation. 
 Pandoc is a suite of tools to compile markdown files into readable files (PDF, EPUB, HTML...).
 
 ## Usage
