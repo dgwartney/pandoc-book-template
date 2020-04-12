@@ -10,15 +10,15 @@ You can define and add any number of tags to a skill response.
 
 Navigate to **Configuration-> Tags as shown below
 
-![Tags Builder](contents/analytics/images/tags-builder.png)
+[Tags Builder](contents/hr-agent/images/tags-builder.png)
 
 - Click on the button _+ Add Tag_ a dialog is displayed as shown below:
 
-![Tags Builder](contents/analytics/images/add-tag-dialog.png)
+[Tags Builder](contents/hr-agent/images/add-tag-dialog.png)
 
 - Type the name of the tag in the _Name_ field as shown here:
 
-![Tags Builder](contents/analytics/images/tags-name-dialog.png)
+[Tags Builder](contents/hr-agent/images/tags-name-dialog.png)
 
 - Click on _Create_ to save the tag
 

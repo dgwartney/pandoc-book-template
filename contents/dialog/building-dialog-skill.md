@@ -37,11 +37,11 @@ I will be using a sample ServiceNOW instance for my integration here.
 The mandatory fields to create a ticket are Short description, Description and Urgency. 
 Our first node will be used to capture the short description, let's create the first node
 
-![**TBD: Add Graphic**](contents/dialog/images/tbd)
+[**TBD: Add Graphic**](contents/dialog/images/tbd)
 
 Our Second node will be used to capture a detailed description of the issue reported. Let's create node 2.
 
-![**TBD: Add Graphic**](contents/dialog/images/tbd)
+[**TBD: Add Graphic**](contents/dialog/images/tbd)
 
 Our third node will be used to capture the urgency of the ticket. Lets use a quick reply to show the urgency. The buttons will be:
 
@@ -51,9 +51,9 @@ Our third node will be used to capture the urgency of the ticket. Lets use a qui
 
 Select post message option for each of the buttons added to quick reply
 
-![**TBD: Add Graphic**](contents/dialog/images/tbd)
+[**TBD: Add Graphic**](contents/dialog/images/tbd)
 
-![**TBD: Add Graphic**](contents/dialog/images/tbd)
+[**TBD: Add Graphic**](contents/dialog/images/tbd)
 
 At the end your conversation tree will look like above.
 
@@ -81,7 +81,7 @@ Post Processing: Yes
 Post Processing Script:
 context.variables.short_description = context.last_message;
 
-![**TBD: Add Graphic**](contents/dialog/images/tbd)
+[**TBD: Add Graphic**](contents/dialog/images/tbd)
 
 Node 3
 Name: capture description
@@ -90,7 +90,7 @@ Intent Code: return true
 Post Processing Script:
 context.variables.short_description = context.last_message;
 
-![**TBD: Add Graphic**](contents/dialog/images/tbd)
+[**TBD: Add Graphic**](contents/dialog/images/tbd)
 
 Node 4
 Capture Urgency
@@ -100,7 +100,7 @@ Post Processing: Yes
 Post Processing Script:
 context.variables.short_description = context.last_message;
 
-![**TBD: Add Graphic**](contents/dialog/images/tbd)
+[**TBD: Add Graphic**](contents/dialog/images/tbd)
 
 Exercise 5.6: Adding a JavaScript
 Let’s add the javascript that will create the incident
@@ -161,18 +161,18 @@ Once the code has been written, save your changes to the skill and build the age
 
 Click the agent icon on the bottom right corner of the screen and ask the agent questions that you have trained it with.
 
-![**TBD: Add Graphic**](contents/dialog/images/tbd)
+[**TBD: Add Graphic**](contents/dialog/images/tbd)
 
 ## Exercise 8: Deploy your Agent on a Web Channel
 
 To deploy your agent on a web channel, navigate to Agent Configure -> Channels 
 Once in channels, click the view in the web channel card.
 
-![**TBD: Add Graphic**](contents/dialog/images/tbd)
+[**TBD: Add Graphic**](contents/dialog/images/tbd)
 
 Click Test in the pop-up
 
-![**TBD: Add Graphic**](contents/dialog/images/tbd)
+[**TBD: Add Graphic**](contents/dialog/images/tbd)
 
 Click on the Test button to view how your agent will appear in a web browser.
 You can change the background of the webpage by using the parameter “&background = <publicly accessible image URL>”

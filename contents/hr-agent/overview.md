@@ -65,11 +65,11 @@ these types for the new agent.
 
 - Provide a name in the _Agent name_ and a description in the _Agent description_ field as shown here:
 
-![New agent dialog](contents/new-agent/images/new-agent-dialog.png)
+![New agent dialog](contents/hr-agent/images/new-agent-dialog.png)
 
 - Click on the _Create Agent_ button to create the new agent.
 
-![New agent](contents/new-agent/images/new-agent-landing.png)
+![New agent](contents/hr-agent/images/new-agent-landing.png)
 
 ## Lesson 2: Add an Avatar to the Agent
 

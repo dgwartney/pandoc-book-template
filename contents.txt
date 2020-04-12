@@ -1,3 +1,6 @@
+#
+# Master table of contents
+#
 contents/introduction/about.md
 contents/before/before-you-begin.md
 contents/getting-started/introduction.md
@@ -11,14 +14,15 @@ contents/live-agent/live-agent-integration.md
 contents/language/language-support.md
 contents/life-cycle/lcm-and-permissions.md
 contents/stores/skill-store.md
-contents/new-agent/new-agent-overview.md
-contents/user-properties/user-properties.md
-contents/response-filters/creating-filters.md
-contents/dictionaries/dictionaries.md
-contents/tags/tags.md
-contents/new-qna-skill/qna.md
-contents/new-dialog-skill/dialog.md
-contents/using-the-agent/agent.md
+contents/hr-agent/introduction.md
+contents/hr-agent/overview.md
+contents/hr-agent/user-properties.md
+contents/hr-agent/response-filters.md
+contents/hr-agent/dictionaries.md
+contents/hr-agent/tags.md
+contents/hr-agent/qna-skill.md
+contents/hr-agent/dialog-skill.md
+contents/hr-agent/analytics.md
 contents/regression-tests/creating-tests.md
 contents/debug/debugging-tools.md
 contents/programming/programming.md
