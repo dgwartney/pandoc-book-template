@@ -1,4 +1,4 @@
-# Building an Answers Skill
+## Building an Answers Skill
 
 After completing the exercises in the lesson you will be able to:
 
@@ -8,7 +8,7 @@ After completing the exercises in the lesson you will be able to:
 - Uploading a URL and creating an answers skill
 - Learning how to train your skill
 
-## Exercise 1: Create an Answers Skill
+### Exercise: Create an Answers Skill
 
 - In the Agent page, navigate to the Skills option in the left navigation menu and click _Add skill_.
 
@@ -18,7 +18,7 @@ After completing the exercises in the lesson you will be able to:
 
 ![Create Answers skill dialog](contents/my-agent/answers/images/create-answer-skill-dialog.png)
 
-## Exercise 2: Uploading a Document
+## Exercise: Uploading a Document
 
 In the Answers skill page, click _Add documents_ in the Documents tab. Click _Select files_, choose a PDF document,
 and click the _Import_ button.
@@ -42,7 +42,7 @@ Here are some example questions:
 >>
 >> _What is the penalty fee?_
 
-## Exercise 3: Examining Avaamo Answers Knowledge
+### Exercise 3: Examining Avaamo Answers Knowledge
 
 To navigate to the knowledge goto **Answer Skill -> Implementation -> Knowledge**
 
@@ -55,7 +55,7 @@ The knowledge page consists of five tabs:
 - Vocabulary
 - Knowledge graph
 
-### Sections
+#### Sections
 
 Sections are chunks of content extracted and created based on the structure of the uploaded document.
 Each section contains the skill’s response to the user’s intent.
@@ -67,7 +67,7 @@ Navigate to the _Sections_ tab and observe the sections that have been identifie
 
 ![Answer skill sections](contents/my-agent/answers/images/answers-section.png)
 
-### Entities
+#### Entities
 
 Entities are business terms in your document. All entities are identified and extracted from your document
 and classified as entities in this section. Here, you can either view all the entities from all the documents
@@ -79,7 +79,7 @@ You can change the document by selecting the document from the dropdown in the t
 Select an entity from the list and try adding all the values.
 Test this in the agent to see how it responds
 
-### Acronyms
+#### Acronyms
 
 If there is an acronym used in your document, then the acronym along with the full form is present in the acronyms tab.
 Here, you can view all the acronyms available in the document.
@@ -92,16 +92,16 @@ You can get the definition of an acronym, like in the following examples:
 
 ![Answer skill acronyms](contents/my-agent/answers/images/answers-acronyms.png)
 
-### Knowledge Graph
+#### Knowledge Graph
 
 This is a view only graph that maps the relationship between words. This mapping is based on the document uploaded,
 the content and context of the document.
 
-### Resources
+#### Resources
 
 [View and Edit Knowledge in Avaamo documentation Portal](https://docs.avaamo.com/v5/how-to/build-skills/create-skill/using-avaamo-answers-1/manage-avaamo-answers-1/view-and-edit-knowledge)
 
-## Exercise 4: Building an Answers Skill from a URL
+### Exercise: Building an Answers Skill from a URL
 
 Here we learn how to build an answers skill by providing a publicly accessible URL. 
 

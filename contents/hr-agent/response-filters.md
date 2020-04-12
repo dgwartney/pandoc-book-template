@@ -1,11 +1,11 @@
-# Response Filters
+## Response Filters
 
 In these lesson were are going to user our previously defined user properties
 to create a response filters. In the later lessons we will this filters in
 a Q&A skill we will create which responds different based on values for
 user properties.
 
-## Lesson 1: Creating a Response Filter
+### Exercise: Creating a Response Filter
 
 - Navigate to **Agent -> Configuration -> Response Filters**
 
@@ -23,7 +23,7 @@ user properties.
 
 ![Saving the Reponse Filter](contents/hr-agent/images/response-filter-save.png)
 
-## Lesson 2: Create an Additional Response Filter
+### Exercise: Create an Additional Response Filter
 
 Use the method in the previous exercise to configure another response filter using the
 values below so that you have a total of two response filters configured:

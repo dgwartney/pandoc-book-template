@@ -18,8 +18,8 @@ contents/my-agent/life-cycle/lcm-and-permissions.md
 contents/my-agent/stores/skill-store.md
 #
 # Human Resources Agent
+#
 contents/hr-agent/section.md
-contents/hr-agent/introduction.md
 contents/hr-agent/overview.md
 contents/hr-agent/user-properties.md
 contents/hr-agent/response-filters.md
@@ -28,7 +28,9 @@ contents/hr-agent/tags.md
 contents/hr-agent/qna-skill.md
 contents/hr-agent/dialog-skill.md
 contents/hr-agent/analytics.md
+#
 # Advanced Topics
+#
 contents/advanced-topics/section.md
 contents/advanced-topics/creating-tests.md
 contents/advanced-topics/debugging-tools.md

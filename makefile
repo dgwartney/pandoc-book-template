@@ -11,6 +11,8 @@ METADATA = metadata.yml
 CHAPTERS = $(shell cat contents.txt | grep -v ^\#)
 TOC = --toc --toc-depth=2
 METADATA_ARGS = --metadata-file=$(METADATA)
+PDF_ENGINE = xelatex
+PDF_HEADING = --top-level-division=part
 IMAGES_FOLDER = images
 IMAGES = $(IMAGES_FOLDER)/*
 COVER_IMAGE = $(IMAGES_FOLDER)/cover.png
@@ -36,7 +38,7 @@ PANDOC_COMMAND = /usr/local/bin/pandoc
 
 EPUB_ARGS = --epub-cover-image=$(COVER_IMAGE)
 HTML_ARGS = --standalone --to=html5
-PDF_ARGS = -V geometry:margin=1in -V documentclass=report --pdf-engine=xelatex
+PDF_ARGS = -N -V geometry:margin=1in -V documentclass=report --pdf-engine=$(PDF_ENGINE) $(PDF_HEADING)
 DOCX_ARGS =
 
 ####################################################################################################

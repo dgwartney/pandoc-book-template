@@ -1,4 +1,4 @@
-# Skill Store	
+## Skill Store	
 
 After completing the exercises in the lesson you will be able to:
 
@@ -10,7 +10,7 @@ After completing the exercises in the lesson you will be able to:
 
 - Versioning in the company skill store
 
-## Exercise 1: Avaamo Skill store
+### Exercise: Avaamo Skill store
 
 The Avaamo skill store is the central repository of all the skills.
 These skills are prebuilt and pre-trained.
@@ -38,7 +38,7 @@ In the skill store you will find prebuilt skills under the following categories:
 
 [To learn more about the Avaamo Skill Store see **Avaamo skills** in the Avaamo documentation portal](https://docs.avaamo.com/v5/how-to/manage-skills-store#avaamo-skills)
 
-## Exercise 2: Company Skill Store
+### Exercise: Company Skill Store
 
 The Company skill store contains a collection of all published skills available in your company skill store
 across certain user-defined categories. Avaamo Platform also allows you to group your company skills into
@@ -46,7 +46,7 @@ different categories. By default, four categories are available - Category A, Ca
 and Category D. Based on how you want to organize these skills, you can create your own categories
 and add them as well.
 
-## Exercise 3: Creating new categories in the skill store
+### Exercise: Creating new categories in the skill store
 
 To create a new category in the skill store do the following:
 
@@ -58,7 +58,7 @@ To create a new category in the skill store do the following:
 
 ![Add category dialog](contents/my-agent/stores/images/skill-store-4.png)
 
-## Exercise 4: Adding Skills to the Company skill store
+### Exercise: Adding Skills to the Company skill store
 
 Once you are done building and testing the skill, and you would like to share your skill with other users,
 then click on the hamburger menu available in the skill and click on Publish to skill store as shown below:
@@ -75,7 +75,7 @@ Once you click on publish to skill store, fill in the skill details as shown bel
 
 Click on publish and your skill will be available in the company skill store in the category you selected
 
-## Exercise 5: Updating a published skill to a new version
+### Exercise: Updating a published skill to a new version
 
 Once you publish a skill, you can make changes and upgrade your company skill store with the latest changes
 that you have made to your skill.  Your skill can be upgraded by as shown below:

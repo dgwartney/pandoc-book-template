@@ -1,4 +1,4 @@
-# User Properties
+## User Properties
 
 User properties are pieces of information specific to a user that permits the ability to customize the
 agent responses to the user. For example, a user conversation with an agent in India versus
@@ -12,7 +12,7 @@ In our specific case will be creating three user properties:
 - Location
 - Title
 
-## Exercise 1: Adding a New User Property
+### Exercise: Adding a New User Property
 
 - Open the new virtual agent you created in the previous lesson
 
@@ -26,10 +26,10 @@ In our specific case will be creating three user properties:
 
 - Click on the _Create_ button to create the new user property
 
-## Exercise 2: Adding additional User Properties
+### Exercise: Adding additional User Properties
 
 Add two additional properties using the method provided in the previous lesson with the values here:
 
 - _Name_ is `Title`, _Key_ is `title`
 
-With our user properties defined we can continue the next step.
+With our user properties defined continue the next step.

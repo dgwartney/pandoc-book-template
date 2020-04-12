@@ -1,4 +1,4 @@
-# Building a Q&A Skill
+## Building a Q&A Skill
 
 After completing the exercises in the lesson you will be able to:
 
@@ -12,7 +12,7 @@ After completing the exercises in the lesson you will be able to:
 
 - Adding  a simple outro to your Q&A Skill	
 
-## Exercise 1: Create a Q&amp;A Skill
+### Exercise: Create a Q&amp;A Skill
 
 - Navigate to **Agent -> Skills**
 
@@ -32,7 +32,7 @@ After completing the exercises in the lesson you will be able to:
 
 ![Agent skills](contents/my-agent/qna/images/qna-skill-builder.png)
 
-## Exercise 2: Add Questions and Answers
+### Exercise: Add Questions and Answers
 
 To add questions and answers perform the following:
 

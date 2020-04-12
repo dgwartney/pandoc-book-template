@@ -1,4 +1,4 @@
-# Dictionaries
+## Dictionaries
 
 ![Dictionaries Landing Page](contents/hr-agent/images/dictionary-builder.png)
 
@@ -6,7 +6,7 @@ We are going to create three different dictionaries to map the location specific
 for PTO or Paid Time Off. The dictionaries will come to play when train our Q&A
 skill in later lessons.
 
-## Exercise 1: Adding a new Dictionary
+### Exercise: Adding a new Dictionary
 
 - Navigate to **Agent -> Configuration -> Dictionaries**
 
@@ -28,7 +28,7 @@ skill in later lessons.
 
 - Click the _Exit_ button to return to the list of dictionaries
 
-## Exercise 2: Add Specific Dictionaries for India and USA
+### Exercise: Add Specific Dictionaries for India and USA
 
 Adding dictionaries for India and USA are done similarly but with the additional specification of the
 response filter to be associated with a dictionary.

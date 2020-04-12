@@ -1,4 +1,4 @@
-# Getting Started
+## Getting Started
 
 This initial section will have you replicate an existing virtual agent 
 and after completing the exercises in the lesson you will be able to:
@@ -10,14 +10,14 @@ and after completing the exercises in the lesson you will be able to:
 - Modify entity types
 - Deploy an agent to a web page
 
-## Exercise 1: Cloning a Sample Agent
+### Exercise: Cloning a Sample Agent
 
 Pick the Sample Agent, Sample Agent: My Assistant. Make a copy of the Agent by clicking the
 hamburger menu and select the option - _Make a Copy_
 
 [*TBD: Making a copy of a sample agent*](contents/my-agent/getting-started/images/dashboard-make-copy.png)
 
-## Exercise 2: Asking questions to the Agent
+### Exercise: Asking questions to the Agent
 
 Now that your agent is ready, try asking some questions and see how it responds.
 
@@ -47,14 +47,14 @@ If the agent is not sure what you are asking about it responds with a disambigua
 >> 
 >> _Wht the stck pice of Microsft?_
 
-## Exercise 3: Changing the Agent Avatar and Name
+### Exercise: Changing the Agent Avatar and Name
 
 Click the edit icon (pencil) next to the agent name on the top left corner. The following pop-up is displayed,
 where you can edit agent name and description:
 
 ![Change the agent name](contents/my-agent/getting-started/images/change-agent-name.png)
 
-## Exercise 4: Changing the Welcome Message
+### Exercise: Changing the Welcome Message
 
 To change the welcome message you can click the Greeting in the built-in skills section.
 Once you are in the greeting message, delete the text output and then add a card.
@@ -62,7 +62,7 @@ In the description section of the card, add a short welcome message to your agen
 
 ![Greeting Message](contents/my-agent/getting-started/images/change-agent-name.png)
 
-## Exercise 5: Changing the returning User Message
+### Exercise: Changing the returning User Message
 
 You can configure a different message for users who are returning to use the Agent. In this exercise,
 we will set up a different welcome message for a returning user.
@@ -105,7 +105,7 @@ return [{
 }];
 ```
 
-## Exercise 6: Entity Types
+### Exercise: Entity Types
 
 In the Agent menu, click _Entity types_ to observe and see the entities that the Agent is using.
 
@@ -131,13 +131,13 @@ Your Agent will now understand the size extra large and ask you to select a topp
 
 ![Testing entity types](contents/my-agent/getting-started/images/entity-type-chat.png)
 
-## Exercise 7: Testing your Updated Entities
+### Exercise: Testing your Updated Entities
 
 Now that we have made so many changes to our Agent, open up the Agent Simulator and ask some questions.
 Try incorporating the new entity types in your queries to see if the agent is able to understand the changes you have made.
 
 
-## Exercise 8: Deploying your Agent to a Web Page
+### Exercise: Deploying your Agent to a Web Page
 
 To user your Agent on the web navigate to **Agent -> Configuration -> Channel**.
 

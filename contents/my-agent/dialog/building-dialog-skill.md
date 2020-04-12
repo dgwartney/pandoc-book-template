@@ -1,4 +1,4 @@
-# Building a Dialog Skill
+## Building a Dialog Skill
 
 After completing the exercises in the lesson you will be able to:
 - Identify and create Entity Types
@@ -20,7 +20,7 @@ Let's build a skill to create an incident using a service now integration. Here 
 For the purpose of this exercise we are limiting the training to these 3 phrases,
 you can go in and add more training data.
 
-## Exercise 1: Creating a Dialog Skill
+### Exercise: Creating a Dialog Skill
 
 To create a new dialog skill:
 
@@ -31,7 +31,7 @@ Click on the _Add skill_ button.
 
 - Specify the following details and click the _Create_ button: 
 
-## Exercise 2: Creating a Conversation Flow
+### Exercise: Creating a Conversation Flow
 
 I will be using a sample ServiceNOW instance for my integration here.
 The mandatory fields to create a ticket are Short description, Description and Urgency. 
@@ -64,7 +64,7 @@ or you can even check if the user entered the right urgency. You can use your va
 
 Documentation that describes how to create a new dialog is found at this link: https://docs.avaamo.com/v5/quick-start-tutorials/add-dialog-skill#step-1-create-new-dialog-skill-in-agent
 
-## Exercise 5: Capturing Data from a Conversation
+### Exercise: Capturing Data from a Conversation
 
 There are two ways to capture and store data from a conversation:
 Using a JavaScript property context.variables.<variable_name> 
@@ -102,7 +102,7 @@ context.variables.short_description = context.last_message;
 
 [**TBD: Add Graphic**](contents/my-agent/dialog/images/tbd)
 
-Exercise 5.6: Adding a JavaScript
+Exercise: Adding a JavaScript
 Let’s add the javascript that will create the incident
 You can add the following code to your code block:
 
@@ -157,13 +157,13 @@ else{
 
 Once the code has been written, save your changes to the skill and build the agent. Let's test the skill to see how it responds.
 
-## Exercise 7: Exercise the Dialog Skill
+### Exercise: Exercise the Dialog Skill
 
 Click the agent icon on the bottom right corner of the screen and ask the agent questions that you have trained it with.
 
 [**TBD: Add Graphic**](contents/my-agent/dialog/images/tbd)
 
-## Exercise 8: Deploy your Agent on a Web Channel
+### Exercise: Deploy your Agent on a Web Channel
 
 To deploy your agent on a web channel, navigate to Agent Configure -> Channels 
 Once in channels, click the view in the web channel card.

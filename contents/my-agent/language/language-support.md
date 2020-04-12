@@ -1,3 +1,4 @@
+## Language Support
 
 After completing the exercises in the lesson you will be able to:
 
@@ -5,7 +6,7 @@ After completing the exercises in the lesson you will be able to:
 
 - Understand how you can override the default translation of the added language
 
-## Exercise 1: Adding a Language to an Agent
+### Exercise: Adding a Language to an Agent
 
 Open an agent and navigate to the **Agent-> Configuration -> Language**:
 
@@ -25,7 +26,7 @@ Use Google Translate to formulate Spanish questions from English like the follow
 
 _Order pizza_ => _Ordenar pizza_
 
-## Exercise 2: Overriding Default Language Translation
+### Exercise: Overriding Default Language Translation
 
 **TBD Add a screen shot that shows the drop down menu for overriding text**
 

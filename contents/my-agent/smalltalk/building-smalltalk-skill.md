@@ -1,4 +1,4 @@
-# Building a Smalltalk Skill	
+## Building a Smalltalk Skill	
 
 After completing the exercises in the lesson you will be able to:
 
@@ -7,7 +7,7 @@ After completing the exercises in the lesson you will be able to:
 - Add variations to your Smalltalk questions
 - Test the smalltalk skill within the agent
 
-## Exercise 1: Default Smalltalk Skill
+### Exercise: Default Smalltalk Skill
 
 Smalltalk is a form of Q&A skill that allows you to build a personality for your agent
 to represent the organization. It can be used across agents developed by the organization.
@@ -24,7 +24,7 @@ Examples for smalltalk questions are:
 Open the smalltalk skill in the skill builder and see what questions are already answered.
 Create a list of questions and answers that would want your agent to answer.
 
-## Exercise 2: Creating a Smalltalk Skill
+### Exercise: Creating a Smalltalk Skill
 
 - In the Agent page, navigate to the _Skills_ option in the left navigation menu,
 click _Add skill_ button in the Agent skills page.
@@ -35,15 +35,15 @@ click _Add skill_ button in the Agent skills page.
 
 ![New Smalltalk skill dialog](contents/my-agent/smalltalk/images/smalltalk-create-dialog.png)
 
-## Exercise 3: Adding Variations to your Smalltalk Questions
+### Exercise: Adding Variations to your Smalltalk Questions
 
 **TBD Add lesson from PNC training**
 
-## Exercise 4: Train Question and Answer Pairs with Variations
+### Exercise: Train Question and Answer Pairs with Variations
 
 **TBD Add lesson from PNC training**
 
-## Exercise 5: Test Smalltalk in your Agent
+### Exercise: Test Smalltalk in your Agent
 
 **TBD Add lesson from PNC training**
 
