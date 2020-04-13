@@ -4,12 +4,40 @@
 
 ### Exercise: Create a New Dialog Skill
 
+- Navigate to **Agent -> Skills**
 
-### Exercise: Adding the default Response
+![Skills Page](contents/hr-agent/images/qna-skills-page.png)
 
-### Exercise: Add the Responses that Use Response Filters
+\pagebreak
 
-### Exercise: Adding a tag within a Q&amp;A Skill
+- Click on the _Add Skill_ button
+
+![Create skill type](contents/hr-agent/images/qna-skill-type-page.png)
+
+\pagebreak
+
+- Place you mouse over the _Q&A_ card and click on the _Create_ button.
+
+![Create skill type](contents/hr-agent/images/qna-select-type-page.png)
+
+\pagebreak
+
+- A dialog is displayed fill in the values as shown below and click on the _Create_ button.
+
+![Create Q&A skill dialog](contents/hr-agent/images/qna-create-dialog.png)
+
+\pagebreak
+
+- The Q&A skill builder is then shown.
+
+![Create Q&A skill dialog](contents/hr-agent/images/qna-skill-builder-page.png)
+
+
+### Exercise: Import the Questions & Answers
+
+### Exercise: Add the Response Filters
+
+### Exercise: Add Tags to the Responses
 
 ### Exercise: Use the Skill
 
