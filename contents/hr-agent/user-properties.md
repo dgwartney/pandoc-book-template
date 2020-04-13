@@ -7,7 +7,7 @@ the United States may differ on topics of Human Resources due to local labor law
 The exercises for this lesson will provide the mechanics of the creation of user properties that will be used in
 a virtual assistant in later lessons.
 
-In our specific case will be creating three user properties:
+In our specific case will be creating two user properties:
 
 - Location
 - Title
