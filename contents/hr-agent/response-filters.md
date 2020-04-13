@@ -42,35 +42,22 @@ Use the method in the previous exercise to configure the remaining response filt
 according to values represented below.
 
 * `Location - Belgium`
-    - `Brussels`
-    - `Kontich`
+    - `Belgium`
 * `Location - Costa Rica`
-    - `Heredia`
+    - `Costa Rica`
 * `Location - Finland`
-    - `Espoo`
-    - `Helsinki`
+    - `Finland`
 * `Location - France`
-    - `Paris`
-    - `Sophia Antipolis`
-    - `Tolouse`
-    - `Montpellier`
-    - `Nantes`
-    - `Aix-en-Provence`
+    - `France`
 * `Location - Germany`
-    - `Duisburg`
-    - `Karlsruhe`
-    - `Munich`
+    - `Germany`
 * `Location - Ireland`
-    - `Lexip`
-    - `Shannon`
+    - `Ireland`
 * `Location - Japan`
-    - `Tokyo`
-    - `Tsukuba`
+    - `Japan`
 * `Location - Mexico`
-    - `Guadalajara`
-    - `Mexico City`
+    - `Mexico`
 * `Location - Poland`
-    - `Gdansk`
-    - `Warsaw`
+    - `Poland`
 
 
