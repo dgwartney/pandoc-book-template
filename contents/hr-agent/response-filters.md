@@ -20,13 +20,19 @@ In this exercise you will create the response filter for the United States.
 
 ![Response Filter configuration](contents/hr-agent/images/response-filter-builder.png)
 
+\pagebreak
+
 - Click on _Add Filter_ button which then displays a popup menu. Select the _User_ menu item
 
 ![Create Response Filter dialog](contents/hr-agent/images/response-filter-dialog.png)
 
+\pagebreak
+
 - Add the values to the response filters as shown here:
 
 ![Response Filter values](contents/hr-agent/images/response-filter-usa-values.png)
+
+\pagebreak
 
 - Click the _Save_ button in the upper right hand corner to save the response filter.
 

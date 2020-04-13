@@ -6,9 +6,13 @@
 
 ![New agent dialog](contents/hr-agent/images/new-agent-dialog.png)
 
+\pagebreak
+
 - Click on the _Create Agent_ button to create the new agent.
 
 ![New agent](contents/hr-agent/images/new-agent-landing.png)
+
+\pagebreak
 
 ### Exercise: Add an Avatar to the Agent
 
@@ -16,9 +20,13 @@
 
 ![Edit agent dialog](contents/hr-agent/images/agent-edit.png)
 
+\pagebreak
+
 - Click on the _Agent avatar_ label
 
 ![Agent avatar](contents/hr-agent/images/agent-avatar.png)
+
+\pagebreak
 
 - Click the avatar area which displays a file dialog, select a graphic to serve as an avatar.
 
