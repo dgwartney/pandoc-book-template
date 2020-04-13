@@ -30,30 +30,41 @@ In this exercise you will create the response filter for the United States.
 
 - Click the _Save_ button in the upper right hand corner to save the response filter.
 
-![Saving the Reponse Filter](contents/hr-agent/images/response-filter-save.png)
+### Exercise: Create an Additional Response Filters
 
-### Exercise: Create an Additional Responses Filter
+Use the method in the previous exercise to configure the remaining response filters for the `Location` user property
+according to values represented below.
 
-Use the method in the previous exercise to configure the remaining response filters according to
-values represented in the table below.
-
-|Name|User Property|Values|
-|:--------------------|:--------:|:--|
-|Location - Australia        |Location|Melbourne,Sydney|
-|Location - Belgium          |Location|Brussels,Kontich|
-|Location - Costa Rica       |Location|Heredia|
-|Location - Egypt            |Location|Cairo|
-|Location - Finland          |Location|Espoo, Helsinki|
-|Location - France           |Location|Paris, Sophia Antipolis, Tolouse, Montpellier, Nantes, Aix-en-Provence|
-|Location - Germany          |Location|Duisburg, Karlsruhe, Munich|
-|Location - Ireland          |Location|Lexip, Shannon|
-|Location - Japan            |Location|Tokyo, Tsukuba|
-|Location - Mexico           |Location|Guadalajara, Mexico City|
-|Location - Poland           |Location|Gdansk,Warsaw|
-|Title - Sales Engineer      |Title|Sales Engineer|
-|Title - Human Resources     |Title|HR Generalist, HR Manager|
-|Title - Marketing           |Title|VP Marketing,Director Markting,Marketing Associate|
-|Title - Account Executive   |Title|Technical Program Manager,Sales|
-|Title - R&D                 |Title|CAD Engineer,Analog Design Engineer|
+* `Location - Belgium`
+    - `Brussels`
+    - `Kontich`
+* `Location - Costa Rica`
+    - `Heredia`
+* `Location - Finland`
+    - `Espoo`
+    - `Helsinki`
+* `Location - France`
+    - `Paris`
+    - `Sophia Antipolis`
+    - `Tolouse`
+    - `Montpellier`
+    - `Nantes`
+    - `Aix-en-Provence`
+* `Location - Germany`
+    - `Duisburg`
+    - `Karlsruhe`
+    - `Munich`
+* `Location - Ireland`
+    - `Lexip`
+    - `Shannon`
+* `Location - Japan`
+    - `Tokyo`
+    - `Tsukuba`
+* `Location - Mexico`
+    - `Guadalajara`
+    - `Mexico City`
+* `Location - Poland`
+    - `Gdansk`
+    - `Warsaw`
 
 
