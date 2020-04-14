@@ -8,7 +8,7 @@
 
 \pagebreak
 
-- Click on the _Create Agent_ button to create the new agent.
+- Click on the _Create Agent_ button in the dialog to create the new agent.
 
 ![New agent](contents/hr-agent/images/new-agent-landing.png)
 
@@ -16,7 +16,7 @@
 
 ### Exercise: Add an Avatar to the Agent
 
-- From the Human Resource Agent page click on the pencil icon next the name.
+- From the human resource agent page click on the pencil icon next the name.
 
 ![Edit agent dialog](contents/hr-agent/images/agent-edit.png)
 
@@ -36,5 +36,5 @@
 
 - Click on the Agent _Save_ button in the upper right corner of the Agent page.
 
-You now have base Human Resources agent that can be customized.
+You now have base human resources agent that can be customized.
 
