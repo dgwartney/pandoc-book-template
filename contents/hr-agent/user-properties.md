@@ -1,16 +1,13 @@
 ## User Properties
 
-User properties are pieces of information specific to a user that permits the ability to customize the
-agent responses to the user. For example, a user conversation with an agent in India versus
-the United States may differ on topics of Human Resources due to local labor laws or policies.
+User properties that provide personalized information about a user that are used to customize the
+agent responses to the user. For example, a user conversation with an agent in Germany versus
+the United States may differ on topics of human resources due to local labor laws or policies.
 
-The exercises for this lesson will provide the mechanics of the creation of user properties that will be used in
+The exercises for this lesson will show to create user property that will be used in
 a virtual assistant in later lessons.
 
-In our specific case will be creating two user properties:
-
-- Location
-- Title
+In our specific case will be creating a user property `Location`
 
 ### Exercise: Adding a New User Property
 
@@ -24,12 +21,6 @@ In our specific case will be creating two user properties:
 
 ~![New user property dialog](contents/hr-agent/images/user-property-new-dialog.png)
 
-- Click on the _Create_ button to create the new user property
+- Click on the _Create_ button in the dialog to add the new user property
 
-### Exercise: Adding additional User Properties
-
-Add two additional properties using the method provided in the previous lesson with the values here:
-
-- _Name_ is `Title`, _Key_ is `title`
-
-With our user properties defined continue the next step.
+With our user property defined continue to the next lesson.
