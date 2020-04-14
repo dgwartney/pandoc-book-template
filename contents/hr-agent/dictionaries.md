@@ -36,9 +36,9 @@ In this exercise you will create the global or default dictionary
 
 \pagebreak
 
-### Exercise: Add Specific Dictionaries for Asia, Europe, North America
+### Exercise: Add Specific Dictionaries for Asia, Europe, Americas
 
-Adding dictionaries for Asia, Europe, and America are performed similarly.
+Adding dictionaries for Asia, Europe, and Americas are performed similarly.
 
 - Create the remaining dictionaries with values below where:
 

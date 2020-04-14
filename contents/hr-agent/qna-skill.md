@@ -1,4 +1,4 @@
-## Creating a Q&amp;A Skill
+## Q&amp;A Skill
 
 You will now create a skill that will be able to answer frequently asked questions with varied
 responses depending on which country the user is located.
@@ -21,11 +21,7 @@ Follow these steps to create the Q&A skill.
 
 - Place you mouse over the _Q&A_ card and click on the _Create_ button.
 
-![Create skill type](contents/hr-agent/images/qna-skill-type-page.png)
-
-\pagebreak
-
-- A dialog is displayed fill in the values as shown below and click on the _Create_ button.
+- A dialog is displayed, fill in the values as shown below and click on the _Create_ button.
 
 ![Create Q&A skill dialog](contents/hr-agent/images/qna-create-dialog.png)
 

@@ -1,20 +1,19 @@
 ## Response Filters
 
-In these lesson were are going to user our previously defined user properties
-to create a response filters. In the later lessons we will this filters in
-a Q&A skill we will create which responds different based on values for
-user properties.
+In this lesson you will use the user property as part of the definition a response filters. In the later lessons,
+you will use the response filters in a Q&A skill to alter the response to the user based on values set
+in the user property.
 
-In the exercises in this chapter you will create to sets of user response filters tied to the user properties
-that were created in previous exercises.
+In this exercises will create a set of user response filters tied to the `Location` user property.
 
 **Location**
 
-One response filter for each country to provide a specific response for each of the employees in the country.
+Create a response filter for each country to provide a specific response for each of the employees from
+that country.
 
 ### Exercise: Creating a Response Filter
 
-In this exercise you will create the response filter for the United States.
+Create a response filter for the United States.
 
 - Navigate to **Agent -> Configuration -> Response Filters**
 
@@ -24,7 +23,7 @@ In this exercise you will create the response filter for the United States.
 
 - Click on _Add Filter_ button which then displays a popup menu. Select the _User_ menu item
 
-![Create Response Filter dialog](contents/hr-agent/images/response-filter-dialog.png)
+![Create Response Filter type](contents/hr-agent/images/response-filter-dialog.png)
 
 \pagebreak
 
@@ -34,7 +33,7 @@ In this exercise you will create the response filter for the United States.
 
 \pagebreak
 
-- Click the _Save_ button in the upper right hand corner to save the response filter.
+- Click the _Save_ button in the upper right hand corner.
 
 ### Exercise: Create an Additional Response Filters
 
