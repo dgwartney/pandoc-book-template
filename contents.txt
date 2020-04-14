@@ -27,8 +27,8 @@ contents/hr-agent/response-filters.md
 contents/hr-agent/dictionaries.md
 contents/hr-agent/tags.md
 contents/hr-agent/qna-skill.md
-contents/hr-agent/dialog-skill.md
-contents/hr-agent/analytics.md
+#contents/hr-agent/dialog-skill.md
+#contents/hr-agent/analytics.md
 #
 # Advanced Topics
 #

@@ -42,7 +42,7 @@ Adding dictionaries for Asia, Europe, and America are performed similarly.
 
 - Create the remaining dictionaries with values below where:
 
-* Name/Description: `North America`
+* Name/Description: `Americas`
     - Response Filters
         - `Location - United States`
         - `Location - Mexico`
