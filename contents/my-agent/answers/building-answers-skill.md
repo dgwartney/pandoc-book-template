@@ -18,7 +18,7 @@ After completing the exercises in the lesson you will be able to:
 
 ![Create Answers skill dialog](contents/my-agent/answers/images/create-answer-skill-dialog.png)
 
-## Exercise: Uploading a Document
+### Exercise: Uploading a Document
 
 In the Answers skill page, click _Add documents_ in the Documents tab. Click _Select files_, choose a PDF document,
 and click the _Import_ button.
@@ -42,7 +42,7 @@ Here are some example questions:
 >>
 >> _What is the penalty fee?_
 
-### Exercise 3: Examining Avaamo Answers Knowledge
+### Exercise: Examining Avaamo Answers Knowledge
 
 To navigate to the knowledge goto **Answer Skill -> Implementation -> Knowledge**
 

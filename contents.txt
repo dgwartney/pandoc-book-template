@@ -4,22 +4,22 @@
 #contents/about.md
 #contents/my-agent/before/before-you-begin.md
 # My Agent
-# contents/my-agent/section.md
-#contents/my-agent/getting-started/introduction.md
-#contents/my-agent/answers/building-answers-skill.md
-#contents/my-agent/qna/building-qna-skill.md
-#contents/my-agent/smalltalk/building-smalltalk-skill.md
-#contents/my-agent/dialog/building-dialog-skill.md
-#contents/my-agent/analytics/analytics.md
-#contents/my-agent/channels/configuring-channels.md
-#contents/my-agent/live-agent/live-agent-integration.md
-#contents/my-agent/language/language-support.md
-#contents/my-agent/life-cycle/lcm-and-permissions.md
-#contents/my-agent/stores/skill-store.md
+contents/my-agent/section.md
+contents/my-agent/getting-started/introduction.md
+contents/my-agent/answers/building-answers-skill.md
+contents/my-agent/qna/building-qna-skill.md
+contents/my-agent/smalltalk/building-smalltalk-skill.md
+contents/my-agent/dialog/building-dialog-skill.md
+contents/my-agent/analytics/analytics.md
+contents/my-agent/channels/configuring-channels.md
+contents/my-agent/live-agent/live-agent-integration.md
+contents/my-agent/language/language-support.md
+contents/my-agent/life-cycle/lcm-and-permissions.md
+contents/my-agent/stores/skill-store.md
 #
 # Human Resources Agent
 #
-#contents/hr-agent/section.md
+contents/hr-agent/section.md
 contents/hr-agent/overview.md
 contents/hr-agent/agent.md
 contents/hr-agent/user-properties.md
@@ -27,13 +27,15 @@ contents/hr-agent/response-filters.md
 contents/hr-agent/dictionaries.md
 contents/hr-agent/tags.md
 contents/hr-agent/qna-skill.md
-#contents/hr-agent/dialog-skill.md
-#contents/hr-agent/analytics.md
+contents/hr-agent/qna-skill-response-filters.md
+contents/hr-agent/qna-skill-use.md
+contents/hr-agent/dialog-skill.md
+contents/hr-agent/analytics.md
 #
 # Advanced Topics
 #
-#contents/advanced-topics/section.md
-#contents/advanced-topics/creating-tests.md
-#contents/advanced-topics/debugging-tools.md
-#contents/advanced-topics/programming.md
-#contents/advanced-topics/apis.md
+contents/advanced-topics/section.md
+contents/advanced-topics/creating-tests.md
+contents/advanced-topics/debugging-tools.md
+contents/advanced-topics/programming.md
+contents/advanced-topics/apis.md

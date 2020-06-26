@@ -1,4 +1,4 @@
-## Creating a Human Resources Agent
+## Human Resources Agent
 
 In this lesson begins the process in which you will build a Human Resources agent from the ground up.
 
