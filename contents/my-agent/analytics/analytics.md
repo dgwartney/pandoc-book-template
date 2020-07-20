@@ -55,3 +55,10 @@ To navigate to the User Feedback navigate to **Agent-> Learning-> User Feedback*
 
 ![Query Insights](contents/my-agent/analytics/images/user-feedback.png)
 
+### Exercise: Exporting Analytics Data
+
+In this exercise you export analytics data so that it can be view as a spreadsheet
+or other application that can read CSV files.
+
+
+
